@@ -1,0 +1,8 @@
+2026-06-10 10:00:01 INFO User login successful
+2026-06-10 10:02:10 INFO API request received
+2026-06-10 10:05:33 ERROR Database connection timeout
+2026-06-10 10:06:02 ERROR Service A unavailable
+2026-06-10 10:07:10 ERROR Service B unavailable
+2026-06-10 10:08:20 ERROR Payment service failed
+2026-06-10 10:09:30 ERROR Gateway timeout
+2026-06-10 10:10:00 CRITICAL Application unavailable
